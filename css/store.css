@@ -1,0 +1,104 @@
+* {
+	font-family: 'Merriweather', serif;
+}
+
+iframe {
+	width: 685px;
+	height: 350px;
+	border: 1px solid #CCC;
+}
+
+#loading {
+	margin-left: 34%;
+	margin-top: 4%;
+}
+
+.return {
+	width: 20px;
+	height: 20px;
+	display: none;
+	margin: 10px;
+	display: none;
+}
+
+.img-store {
+	width: 450px;
+	height: 355px;
+	border-radius: 10px;
+}
+
+.details {
+	margin-top: 50px;
+}
+
+.title-store {
+	text-align: center;
+	font-weight: bold;
+}
+
+.slogan {	
+	float: right;
+	padding-right: 180px;
+	font-size: 18px;
+}
+
+.description {
+	margin-top: 20px;
+	font-size: 20px;
+	float: right;
+	text-align: justify;
+}
+
+.area {
+	position: absolute;
+	bottom: 1px;
+	left: 15px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.category {
+	position: absolute;
+	bottom: 0;
+	right: 20px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.info-store {
+	margin-top: 20px;
+}
+
+.gallery-itens {
+	border: 1px solid #CCC;
+}
+
+.gallery-itens img {
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+	cursor: pointer;
+	border-radius: 50px;
+}
+
+.info-map {
+	margin-top: 4px;
+}
+
+.week-table {
+	width: 105px;
+	margin-top: 50px;
+	font-size: 14px;
+	text-align: center;
+	border: 1px solid #CCC;
+}
+
+.week-table th {
+
+}
+
+.week-table td {
+	padding: 5px 7px 0 7px;
+	padding-top: 10px;
+	/*padding-bottom: 10px;*/
+}
