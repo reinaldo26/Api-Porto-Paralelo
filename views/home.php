@@ -11,7 +11,7 @@
 <body>
 
 <div class="form-group">
-   	 <input type="text" class="form-control" id="search" placeholder="Procurando uma loja especifica?"/>
+   	 <input type="text" class="form-control" id="search" placeholder="Procurando uma loja específica?"/>
    	 <input type="submit" class="form-control alert-dark" id="search-sub" value="Pesquisar"/>
 </div>
 

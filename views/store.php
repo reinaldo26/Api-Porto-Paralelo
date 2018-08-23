@@ -9,7 +9,7 @@
 	<link rel="stylesheet" type="text/css" href="css/store.css"/>
 </head>
 <body>
-
+	
 	<img src="<?php echo BASE_URL; ?>/img/loading.gif" id="loading"/>
 	<a href="<?php echo BASE_URL; ?>"><img src="<?php echo BASE_URL; ?>/img/return.png" class="return"/></a>
 

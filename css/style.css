@@ -56,3 +56,7 @@ span {
 	cursor: pointer;
 	border-radius: 0;
 }
+
+#search-sub:hover {
+	background-color: #DCDCDC;
+}
